@@ -1,0 +1,37 @@
+*{
+	margin:20px;
+	font-family:arial;
+}
+.div1{
+	width:100px;
+	height:100px;
+	line-height:100px;
+	float:left;
+	text-align:center;
+	margin-right:15px;
+	border-radius:10px;
+	box-shadow: 5px 5px 5px grey;
+	background: linear-gradient(to right, red,green); 
+}
+.div2{
+	width:100px;
+	height:100px;
+	line-height:100px;
+	float:left;
+	text-align:center;
+	margin-right:15px;
+	border-radius:10px;
+	box-shadow: 5px 5px 5px grey;
+	background: radial-gradient(circle at top center, red, yellow, green);
+}
+.div3{
+	width:100px;
+	height:100px;
+	line-height:100px;
+	float:left;
+	text-align:center;
+	margin-right:15px;
+	border-radius:10px;
+	box-shadow: 5px 5px 5px grey;
+	background: radial-gradient(ellipse at top center, red, yellow, green);
+}
